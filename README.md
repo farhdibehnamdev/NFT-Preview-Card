@@ -32,6 +32,7 @@ Users should be able to:
 ### Screenshot
 
 ![](./images/nft.png)
+![](./images/nft-hover.png)
 
 ### Links
 
